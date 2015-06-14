@@ -1,0 +1,36 @@
+{
+  "name": "node-gsettings",
+  "description": "Node binding to gsettings dconf tool",
+  "version": "0.1.8",
+  "author": "Leopold Burdyl",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "bugs": "https://github.com/vilnius-leopold/node-gsettings/issues",
+  "homepage": "https://github.com/vilnius-leopold/node-gsettings",
+  "dependencies": {},
+  "licenses": [
+    {
+      "type": "BSD-3-Clause",
+      "url": "http://www.opensource.org/licenses/BSD-3-Clause"
+    }
+  ],
+  "keywords": [
+    "dconf",
+    "gsettings",
+    "settings",
+    "config",
+    "gnome",
+    "desktop",
+    "linux",
+    "gnu"
+  ],
+  "repository": "https://github.com/vilnius-leopold/node-gsettings.git",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.1.9"
+  },
+  "devDependencies": {
+    "truncate": "^1.0.4"
+  }
+}
